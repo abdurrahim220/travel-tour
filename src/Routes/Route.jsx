@@ -10,6 +10,9 @@ import Main from '../Layout/Main';
     {
       path: "/",
       element: <Main/>,
+      children:[
+        
+      ]
     },
   ]);
 
